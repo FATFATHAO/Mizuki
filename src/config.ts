@@ -26,7 +26,8 @@ export const siteConfig: SiteConfig = {
   lang: SITE_LANG,
 
   themeColor: {
-    hue: 35, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
+    // 原本默认35，个人更喜欢270
+    hue: 270, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
     fixed: false, // 对访问者隐藏主题色选择器
   },
 
@@ -173,10 +174,10 @@ export const siteConfig: SiteConfig = {
   // 字体配置
   font: {
     zenMaruGothic: {
-      enable: true, // 启用全局圆体适合日语和英语，对中文适配一般
+      enable: false, // 启用全局圆体适合日语和英语，对中文适配一般
     },
     hanalei: {
-      enable: false, // 启用 Hanalei 字体作为全局字体，适合中文去使用
+      enable: true, // 启用 Hanalei 字体作为全局字体，适合中文去使用
     },
   },
   showLastModified: true, // 控制“上次编辑”卡片显示的开关
