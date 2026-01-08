@@ -177,13 +177,13 @@ export const siteConfig: SiteConfig = {
       enable: false, // 启用全局圆体适合日语和英语，对中文适配一般
     },
     hanalei: {
-      enable: true, // 启用 Hanalei 字体作为全局字体，适合中文去使用
+      enable: false, // 启用 Hanalei 字体作为全局字体，适合中文去使用
     },
   },
   showLastModified: true, // 控制“上次编辑”卡片显示的开关
 };
 export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
-  enable: true, // 启用全屏壁纸功能,非Banner模式下生效
+  enable: false, // 启用全屏壁纸功能,非Banner模式下生效
   src: {
     desktop: [
       "/assets/desktop-banner/d1.webp",
@@ -320,11 +320,11 @@ export const profileConfig: ProfileConfig = {
     //   icon: "simple-icons:codeberg",
     //   url: "https://codeberg.org",
     // },
-    {
-      name: "Discord",
-      icon: "fa6-brands:discord",
-      url: "https://discord.gg/MqW6TcQtVM",
-    },
+    // {
+    //   name: "Discord",
+    //   icon: "fa6-brands:discord",
+    //   url: "https://discord.gg/MqW6TcQtVM",
+    // },
   ],
 };
 
