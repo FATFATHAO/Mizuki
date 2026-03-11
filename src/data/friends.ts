@@ -76,6 +76,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://developer.mozilla.org",
 		tags: ["Docs", "Reference"],
 	},
+	{
+		id: 9,
+		title: "imicola",
+		imgurl: "/images/friends/imicola.jpg",
+		desc: "欢迎关注大佬imicola",
+		siteurl: "https://imicola.com",
+		tags: ["Friend"],
+	},
 ];
 
 // 获取所有友情链接数据

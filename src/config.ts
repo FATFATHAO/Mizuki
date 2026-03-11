@@ -19,7 +19,7 @@ import { LinkPreset } from "./types/config";
 // 移除i18n导入以避免循环依赖
 
 // 定义站点语言
-const SITE_LANG = "ja"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
+const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
 	title: "肥豪随想录",
@@ -163,9 +163,9 @@ export const siteConfig: SiteConfig = {
 			title: "肥豪随想录", // 主页横幅主标题
 
 			subtitle: [
-        "关于代码的一些随想",
-        "整理自己学习所得到的思路",
-        "大家一起进步"
+				"关于代码的一些随想",
+				"整理自己学习所得到的思路",
+				"大家一起进步",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
