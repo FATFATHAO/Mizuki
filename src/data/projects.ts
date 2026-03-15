@@ -133,6 +133,19 @@ export const projectsData: Project[] = [
 		endDate: "2025-1-20",
 		tags: ["Productivity", "Video Call"],
 	},
+	{
+		id: "project-su",
+		title: "政企智能问答知识库平台",
+		description:
+			"国企项目，内涵低代码开发平台，RAG知识库检索，主要通过检索红头文件精确进行问答",
+		image: "",
+		category: "web",
+		techStack: ["Python", "TypeScript", "React", "PostgreSQL", "antd"],
+		status: "in-progress",
+		startDate: "2026-2-13",
+		tags: ["Productivity", "AI", "RAG"],
+		featured: true,
+	},
 ];
 
 // Get project statistics
