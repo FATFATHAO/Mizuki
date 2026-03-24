@@ -85,8 +85,16 @@ export const friendsData: FriendItem[] = [
 		tags: ["Friend"],
 	},
 	{
-		id: 2,
-		title: "imicola",
+		id: 3,
+		title: "Shane",
+		imgurl: "/images/avatar/Shane.jpg",
+		desc: "世间所有相遇，都是久别重逢",
+		siteurl: "http://hustshare.top/",
+		tags: ["Friend"],
+	},
+	{
+		id: 4,
+		title: "me",
 		imgurl: "/images/avatar/my_avatar.jpg",
 		desc: "这是我自己",
 		siteurl: "https://fatfathao.top",
