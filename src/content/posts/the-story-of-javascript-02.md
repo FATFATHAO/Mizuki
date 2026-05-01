@@ -6,6 +6,7 @@ image: ""
 tags: [JavaScript, interview]
 category: "interview"
 draft: false
+hint: true
 lang: "zh-CN"
 author: "FATFATHAO"
 ---

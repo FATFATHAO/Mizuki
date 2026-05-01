@@ -6,6 +6,7 @@ image: ''
 tags: ['makeover']
 category: 'makeover'
 draft: false 
+pinned: true
 lang: 'zh-CN'
 ---
 

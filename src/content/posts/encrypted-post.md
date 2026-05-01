@@ -7,6 +7,7 @@ pinned: true
 password: "123456"
 passwordHint: "123456"
 alias: "encrypted-example"
+hint: true
 tags: ["Test", "Encryption"]
 category: "Technology"
 ---

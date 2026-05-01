@@ -6,6 +6,7 @@ image: ""
 tags: [Electron]
 category: "Electron"
 draft: false
+hint: true
 lang: "zh-CN"
 author: "FATFATHAO"
 ---

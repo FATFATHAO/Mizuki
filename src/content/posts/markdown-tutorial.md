@@ -8,7 +8,7 @@ category: Examples
 licenseName: "Unlicensed"
 author: emn178
 sourceLink: "https://github.com/emn178/markdown"
-draft: false
+draft: true
 ---
 
 # Markdown Tutorial
@@ -329,7 +329,7 @@ Preview:
 
 ---
 
-1986. What a great season.
+1. What a great season.
 
 ---
 
@@ -984,4 +984,3 @@ Preview:
   **No Work**
 </div>
 ***
-

@@ -5,7 +5,7 @@ description: ""
 image: ""
 tags: [JavaScript, interview]
 category: "JavaScript, interview"
-draft: false
+draft: true
 lang: "zh-CN"
 author: "FATFATHAO"
 ---

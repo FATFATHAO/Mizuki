@@ -5,7 +5,7 @@ pinned: false
 description: A simple example of a Markdown blog post with Mermaid.
 tags: [Markdown, Blogging, Mermaid]
 category: Examples
-draft: false
+draft: true
 ---
 # Complete Guide to Markdown with Mermaid Diagrams
 
@@ -14,9 +14,6 @@ This article demonstrates how to create various complex diagrams using Mermaid i
 ## Flowchart Example
 
 Flowcharts are excellent for representing processes or algorithm steps.
-
-
-
 
 ```mermaid
 graph TD
@@ -190,3 +187,4 @@ Mermaid is a powerful tool for creating various types of diagrams in Markdown do
 To use Mermaid, simply specify the mermaid language in a code block and describe the diagram using concise text syntax. Mermaid will automatically convert these descriptions into beautiful visual diagrams.
 
 Try using Mermaid diagrams in your next technical blog post or project documentation - they will make your content more professional and easier to understand!
+
